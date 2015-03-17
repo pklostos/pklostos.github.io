@@ -1,0 +1,23 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426565333471">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="4035975816" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index"/>
+    <file name="museutils.js" crc="479751881" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2015-03-16 at 93641 pm.jpg" crc="305565795" ref="index"/>
+    <file name="1.png" crc="3976263645" ref="index"/>
+    <file name="5.png" crc="370636924" ref="index"/>
+    <file name="2.png" crc="3767113057" ref="index"/>
+    <file name="3.png" crc="349385151" ref="index"/>
+    <file name="6.png" crc="335068300" ref="index"/>
+    <file name="7.png" crc="33059122" ref="index"/>
+    <file name="8.png" crc="3767113057" ref="index"/>
+    <file name="4.png" crc="74218943" ref="index"/>
+  </folder>
+  <file name="index.html" crc="205442739" mt="1426559892984" redirect="true"/>
+</manifest>
