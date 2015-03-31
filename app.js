@@ -2,7 +2,7 @@ var main = function() {
   $('.dropdown-toggle').click(function() {
     $('.dropdown-menu').toggle();
   });
-  $('.jumbotron').click(function() {
+  $('body > div:not(.nav)').click(function() {
     $('.dropdown-menu').hide();
   });
 };
