@@ -1,0 +1,79 @@
+.nav {
+  background-color:red;
+}
+
+.nav a {
+  color: blue;
+  font-size: 18px;
+  font-family: 'Arial';
+  font-weight: bold;
+  padding: 14px 10px;
+
+}
+
+.nav li {
+  display: inline;
+}
+
+.dropdown-menu {
+  font-size: 16px;
+  margin-top: 5px;
+  min-width: 105px;
+  background-color: red;
+}
+
+.dropdown-menu li a {
+  color: blue;
+  font-size: 18px;
+  font-family: 'Arial';
+  font-weight: bold;
+  padding: 6px;
+}
+
+
+
+.jumbotron {
+  background-color:blue;
+  height: 200px;
+  background-repeat: no-repeat;
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top:10px;
+}
+
+.jumbotron h1 {
+  color: red;
+  font-size: 48px;
+  font-family: 'Arial';
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-family: 'Arial';
+  font-size: 20px;
+  color: #dc0000;
+
+}
+
+.exhibitions {
+  background-color:blue;
+  border-bottom: 1px solid #0800ff;
+}
+
+.exhibitions .container {
+  position: relative;
+  top:10px;
+}
+
+.exhibitions h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.exhibitions p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
